@@ -1,2 +1,2 @@
-# Java_back_end_development
+# Java_back_end_development_pic
 自学Java后端开发所用的图床
